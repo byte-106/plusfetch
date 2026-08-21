@@ -17,7 +17,7 @@
 ## Install
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/plusfetch
+git clone https://github.com/byte-106/plusfetch
 cd plusfetch
 sudo make install
 ```
